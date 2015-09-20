@@ -3,7 +3,7 @@
   <channel>
     <title>City81 - Software Design and Development Services</title>
     <description>City81 provide Software Design and Development Services</description>
-    <link>http://swanseacon.github.io/</link>
+    <link>http://city81.github.io/</link>
     <atom:link href="http://city81.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
@@ -16,7 +16,7 @@
 </description>
         <pubDate>Sun, 20 Sep 2015 12:18:18 +0100</pubDate>
         <link>http://city81.github.io/blog/betfair-ng-api</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/betfair-ng-api</guid>
+        <guid isPermaLink="true">http://city81.github.io/blog/betfair-ng-api</guid>
       </item>
     
       <item>
@@ -34,8 +34,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.manning.com/books/akka-in-action&quot;&gt;Akka in Action : Book&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Sep 2015 21:43:18 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/akka-in-action</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/akka-in-action</guid>
+        <link>http://city81.github.io/blog/akka-in-action</link>
+        <guid isPermaLink="true">http://city81.github.io/blog/akka-in-action</guid>
       </item>
     
   </channel>
