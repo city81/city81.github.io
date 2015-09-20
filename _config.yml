@@ -17,7 +17,7 @@ baseurl: ""
 url: "http://city81.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-57225674-1"
-googleAnalyticsSiteUrl: "swancon.co.uk"
+googleAnalyticsSiteUrl: "city81.com"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
