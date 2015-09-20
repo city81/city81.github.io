@@ -4,7 +4,7 @@
     <title>City81 - Software Design and Development Services</title>
     <description>City81 provide Software Design and Development Services</description>
     <link>http://swanseacon.github.io/</link>
-    <atom:link href="http://swanseacon.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://city81.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Betfair NG API - Added an example robot</title>
@@ -15,7 +15,7 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/city81/betfair-service-ng&quot;&gt;Find out more here : GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Sep 2015 12:18:18 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/betfair-ng-api</link>
+        <link>http://city81.github.io/blog/betfair-ng-api</link>
         <guid isPermaLink="true">http://swanseacon.github.io/blog/betfair-ng-api</guid>
       </item>
     
