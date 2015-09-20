@@ -144,7 +144,7 @@ ticketsOffers:
   priceCurrency: "GBP"
   ticketsNumber: "150"
   ribbon: "-5%"
-  buyButtonLink: "https://www.picatic.com/swanseacon"
+  buyButtonLink: "https://www.picatic.com/city81"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-02-15T10:00"
@@ -156,7 +156,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://www.picatic.com/swanseacon"
+  buyButtonLink: "https://www.picatic.com/city81"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-04-01T00:00"
@@ -167,7 +167,7 @@ ticketsOffers:
   price: "200"
   priceCurrency: "GBP"
   ticketsNumber: "50"
-  buyButtonLink: "https://www.picatic.com/swanseacon"
+  buyButtonLink: "https://www.picatic.com/city81"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -180,13 +180,13 @@ ticketsOffers:
 socialLinks:
 # - {link: "https://plus.google.com/u/1/105624973822199981487", icon: "google-plus"}
  - {link: "https://twitter.com/geraint_city81", icon: "twitter"}
-# - {link: "https://www.facebook.com/swanseacon", icon: "facebook"}
+# - {link: "https://www.facebook.com/city81", icon: "facebook"}
 # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
 # -
 #  title: "Links"
 #  links:
-#   - {link: "http://www.picatic.com/swanseacon", text: "picatic.com/swanseacon"}
+#   - {link: "http://www.picatic.com/city81", text: "picatic.com/city81"}
  -
   title: "Contacts"
   links:
@@ -199,7 +199,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "swanseacon2015"
+discusShortName: "city812015"
 
 # Speakers List Block
 showSessions: true
