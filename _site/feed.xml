@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>City81 - Software Design and Development Services</title>
+    <description>City81 provide Software Design and Development Services</description>
+    <link>http://swanseacon.github.io/</link>
+    <atom:link href="http://swanseacon.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Betfair NG API - Added an example robot</title>
+        <description>&lt;h4 id=&quot;betfair-ng-api&quot;&gt;Betfair NG API&lt;/h4&gt;
+
+&lt;p&gt;We have finally got around to updating the Betfair NG API Github repo with new API calls. We’ve also added in an example robot so people can clone the repo and spin up the example robot so see how easy it is to make calls to Betfair’s NG API using Scala and Akka.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/city81/betfair-service-ng&quot;&gt;Find out more here : GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Sep 2015 12:18:18 +0100</pubDate>
+        <link>http://swanseacon.github.io/blog/betfair-ng-api</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/betfair-ng-api</guid>
+      </item>
+    
+      <item>
+        <title>Akka in Action - an excellent read and resource</title>
+        <description>&lt;h4 id=&quot;akka-in-action&quot;&gt;Akka in Action.&lt;/h4&gt;
+
+&lt;p&gt;This is an excellent book by Raymond Roestenburg, Rob Bakker, and Rob Williams. Whilst the hardbook isn’t out until December, all chapters are now available as an eBook under Manning’s Early Access Program.&lt;/p&gt;
+
+&lt;p&gt;Akka in Action uses examples (in Scala) on how you can build message-oriented systems using Akka. The book also includes sections on patterns like Event Sourcing, and CQRS.&lt;/p&gt;
+
+&lt;p&gt;On the Kindle version, the code isn’t formatted as well as it should be so you’ll find yourself switching back and forth the code cloned from the associated GitHub repo.&lt;/p&gt;
+
+&lt;p&gt;All in all, an excellent addition to any software engineer using Akka.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.manning.com/books/akka-in-action&quot;&gt;Akka in Action : Book&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Sep 2015 21:43:18 +0100</pubDate>
+        <link>http://swanseacon.github.io/blog/akka-in-action</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/akka-in-action</guid>
+      </item>
+    
+  </channel>
+</rss>
