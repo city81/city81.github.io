@@ -116,7 +116,7 @@ venueTitle: "Liberty Stadium"
 venueFeatures: ["The premier venue for conference and events in South West Wales.", "Located in the heart of Swansea."]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "dreamstime_marina2.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "geraint_city81"
 twitterFeed: "_includes/twitter-feed.html"
