@@ -7,6 +7,19 @@
     <atom:link href="http://city81.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>G-Cloud 7 - City81 now a supplier</title>
+        <description>&lt;h4 id=&quot;g-cloud-7&quot;&gt;G-Cloud 7&lt;/h4&gt;
+
+&lt;p&gt;City81’s application to be a G-Cloud 7 supplier has been successful. G-Cloud is an initiative targeted at easing procurement by public-sector bodies in departments of the United Kingdom Government of commodity information technology services that use cloud computing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://digitalmarketplace.blog.gov.uk/&quot;&gt;Find out more here : Digital Marketplace&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Nov 2015 11:10:10 +0000</pubDate>
+        <link>http://city81.github.io/blog/g-cloud</link>
+        <guid isPermaLink="true">http://city81.github.io/blog/g-cloud</guid>
+      </item>
+    
+      <item>
         <title>Betfair NG API - Added an example robot</title>
         <description>&lt;h4 id=&quot;betfair-ng-api&quot;&gt;Betfair NG API&lt;/h4&gt;
 

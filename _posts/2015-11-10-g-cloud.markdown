@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "G-Cloud 7 - City81 now a supplier"
+date:   2015-11-10 11:10:10:00
+isStaticPost: false
+---
+
+#### G-Cloud 7
+
+City81's application to be a G-Cloud 7 supplier has been successful. G-Cloud is an initiative targeted at easing procurement by public-sector bodies in departments of the United Kingdom Government of commodity information technology services that use cloud computing.
+
+[Find out more here : Digital Marketplace](https://digitalmarketplace.blog.gov.uk/)
