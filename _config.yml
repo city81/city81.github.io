@@ -31,7 +31,7 @@ organizerLink: "http://www.vivrichards.co.uk/"
 
 # Head
 metaKeywords: "event, swansea, java, scala, programming, development, software, developers, south wales, craftsmanship, agile"
-twitterAccount: "@geraint_city81"
+twitterAccount: "@city81ltd"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -118,7 +118,7 @@ venueFeatures: ["The premier venue for conference and events in South West Wales
 # Tweets Feed Block
 tweetsFeedImage: "dreamstime_marina2.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "geraint_city81"
+twitterHashTag: "city81ltd"
 twitterFeed: "_includes/twitter-feed.html"
 
 # Partners Block
